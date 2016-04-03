@@ -11,7 +11,7 @@
   "section_order": [
     "Basics",
     "Logical Operators",
-    "Arithmatic Operators",
+    "Arithmetic Operators",
     "Comparison Operators",
     "Printing",
     "Dictionaries",
@@ -61,7 +61,7 @@
         "val": "Equals"
       }
     ],
-    "Arithmatic Operators": [
+    "Arithmetic Operators": [
       {
         "key": "+",
         "val": "Addition"
@@ -125,7 +125,7 @@
     ],
     "Dictionaries": [
       {
-        "key": "var days = \\[\"mon\": \"monday\", \"tue\": \"tuseday\"\\]",
+        "key": "var days = \\[\"mon\": \"monday\", \"tue\": \"tuesday\"\\]",
         "val": "Declare a new dictionary"
       },
       {
